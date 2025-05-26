@@ -69,7 +69,7 @@ local Button = Tab:CreateButton({
 local Tab = Window:CreateTab("Blue lock", 4483362458) -- Title, Image
 
 local Button = Tab:CreateButton({
-   Name = "em desenvolvimento",
+   Name = "still in development.",
    Callback = function() 
    -- The function that takes place when the button is pressed
    end,
@@ -125,7 +125,7 @@ local Button = Tab:CreateButton({
 local Tab = Window:CreateTab("Natural disaster", 4483362458) -- Title, Image
 
 local Button = Tab:CreateButton({
-   Name = "em desenvolvimento ainda.",
+   Name = "still in development.",
    Callback = function() 
    -- The function that takes place when the button is pressed
    end,
